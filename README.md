@@ -1,0 +1,69 @@
+NETFLIX DATA ANALYSIS
+
+This project focuses on analyzing Netflix’s dataset to uncover insights about its movies and TV shows. It helps understand trends in content production, genres, and ratings using Python and data visualization tools.
+
+OBJECTIVE:
+
+Analyze the distribution of Movies and TV Shows on Netflix
+
+Explore trends over the years
+
+Identify the most common genres and countries
+
+Examine ratings and release year patterns
+
+Visualize insights for better understanding
+
+ TECHNOLOGIES USED:
+
+Python
+
+Pandas – for data manipulation
+
+NumPy – for numerical operations
+
+Matplotlib and Seaborn – for data visualization
+
+Jupyter Notebook – for running and presenting the analysis
+
+ DATASET:
+
+The dataset used is Netflix Movies and TV Shows, containing details such as:
+
+Title
+
+Director
+
+Cast
+
+Country
+
+Release year
+
+Rating
+
+Duration
+
+Genre
+
+(Source: Kaggle - Netflix Movies and TV Shows Dataset
+)
+
+
+📈 Key Insights
+
+Most Netflix content was added after 2015
+
+Movies are more common than TV Shows
+
+The United States and India produce the most content
+
+Top genres include Drama, Comedy, and Documentary
+
+🚀 Future Scope
+
+Add interactive dashboards using Plotly or Power BI
+
+Include sentiment analysis on show descriptions
+
+Develop a recommendation system using ML models
